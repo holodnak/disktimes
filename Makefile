@@ -41,7 +41,7 @@
 
 
 # Target file name (without extension).
-TARGET = teensy-fds
+TARGET = disktimes
 
 
 # List C source files here. (C dependencies are automatically generated.)
